@@ -1,0 +1,30 @@
+<resources>
+    <!-- Textos gerais -->
+    <string name="app_nome">Trabalho GPS</string>
+    <string name="localizacao_label">Localização Atual:</string>
+    <string name="qualidade_sinal_satelites">Qualidade do Sinal dos Satélites</string>
+
+    <!-- Botões e ações -->
+    <string name="aplicar_filtro">Aplicar Filtro</string>
+    <string name="remover_filtro">Remover Filtro</string>
+
+    <!-- Mensagens de erro -->
+    <string name="permissao_localizacao_negada">Permissão de localização negada. Por favor, permita o acesso para continuar.</string>
+    <string name="nenhum_satelite">Nenhum satélite disponível.</string>
+
+    <!-- Nomes das constelações -->
+    <string name="constelacao_gps">GPS</string>
+    <string name="constelacao_galileo">Galileo</string>
+    <string name="constelacao_glonass">GLONASS</string>
+    <string name="constelacao_desconhecida">Desconhecido</string>
+
+    <!-- Filtros -->
+    <string name="filtro_gps">Filtrar por GPS</string>
+    <string name="filtro_galileo">Filtrar por Galileo</string>
+    <string name="filtro_glonass">Filtrar por GLONASS</string>
+    <string name="filtro_usado_na_fixacao">Usado na Fixação</string>
+
+    <!-- Outros textos -->
+    <string name="satelites_visiveis">Satélites visíveis: %1$d</string>
+    <string name="satelite_snr">SNR: %1$.2f dB-Hz</string>
+</resources>

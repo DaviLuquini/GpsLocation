@@ -1,0 +1,30 @@
+<resources>
+    <!-- General texts -->
+    <string name="app_name">GPS Work</string>
+    <string name="location_label">Current Location:</string>
+    <string name="satellite_signal_quality">Satellite Signal Quality</string>
+
+    <!-- Buttons and actions -->
+    <string name="apply_filter">Apply Filter</string>
+    <string name="remove_filter">Remove Filter</string>
+
+    <!-- Error messages -->
+    <string name="location_permission_denied">Location permission denied. Please allow access to continue.</string>
+    <string name="no_satellites">No satellites available.</string>
+
+    <!-- Constellation names -->
+    <string name="constellation_gps">GPS</string>
+    <string name="constellation_galileo">Galileo</string>
+    <string name="constellation_glonass">GLONASS</string>
+    <string name="constellation_unknown">Unknown</string>
+
+    <!-- Filters -->
+    <string name="filter_gps">Filter by GPS</string>
+    <string name="filter_galileo">Filter by Galileo</string>
+    <string name="filter_glonass">Filter by GLONASS</string>
+    <string name="filter_used_in_fix">Used in Fix</string>
+
+    <!-- Other texts -->
+    <string name="satellites_visible">Visible satellites: %1$d</string>
+    <string name="satellite_snr">SNR: %1$.2f dB-Hz</string>
+</resources>
